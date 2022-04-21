@@ -28,7 +28,7 @@ With the Power Platform providing a unified approach to building data driven sol
 
 Click "release" tab on the top or click this [link](https://github.com/microsoft/Industry-Accelerator-Government/releases) to navigate to latest release details and download the latest release assets. 
 
-Securing the data and samples is the responsibilty of the partner or customer implementing the solution. Please see the following [Power Platform documentation](https://docs.microsoft.com/en-us/power-platform/admin/security/) for guidance plus security and governance considerations.
+Securing the data and samples is the responsibility of the partner or customer implementing the solution. Please see the following [Power Platform documentation](https://docs.microsoft.com/en-us/power-platform/admin/security/) for guidance plus security and governance considerations.
 
 ## Support
 Please do not open a support ticket if you encounter any bugs with the solution itself, unless it is related to an underlying platform issue unrelated to the accelerator's implementation. If there are issues related to the solution itself, report bugs and issues here: 
